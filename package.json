@@ -12,7 +12,11 @@
   "devDependencies": {
     "eslint": "^5.4.0",
     "eslint-config-google": "^0.9.1",
-    "mocha": "^5.2.0"
+    "expect": "^1.20.2",
+    "mocha": "^5.2.0",
+    "supertest": "^3.1.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
